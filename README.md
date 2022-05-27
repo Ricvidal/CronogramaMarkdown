@@ -13,6 +13,6 @@ Cronograma da Disciplina de Projeto Integrador
     Criação do protótipo      :c3,after c2, 14d
     section Defesa
     Preparação dos slides :p1, 2022-07-01, 10d
-    Ensaio da apresentação :p2, 2022-07-07, 7d   
+    Ensaio da apresentação :p2, 2022-07-07, 7d
+    ## Aluno: José Ricardo Quintino Vidal
 ```
-## Aluno: José Ricardo Quintino Vidal
