@@ -14,7 +14,7 @@ Cronograma da Disciplina de Projeto Integrador
     Escrita da parte teórica :a7,after a2  , 6d
     section Prototipação
     Criação das telas :c2,2022-05-31  , 7d
-    Descriação das telas      :c3,after c2, 7d
+    Descrição das telas      :c3,after c2, 7d
     section Defesa
     Preparação dos slides :p1, 2022-07-01, 10d
     Ensaio da apresentação :p2, 2022-07-07, 7d
